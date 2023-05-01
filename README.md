@@ -1,3 +1,5 @@
-# Welcome to STG POC
 
-This organization is used for proof of concept projects for Summit Technology Group.
+
+thesummitgrp-poc/.github is a special repository.
+
+See [/profile/README.md](/profile/README.md) and it will appear on the organization's profile.
